@@ -1,0 +1,5 @@
+Hola,
+Esto es un ejemplo de lectura
+de ficheros con python
+A ver si funciona
+:)
